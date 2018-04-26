@@ -1,5 +1,5 @@
-# EventIdentification
-Problem to Address:
+## EventIdentification
+#Problem to Address:</h>
 In this project, our group will try to reproduce the data analysis result from Hila Becker, Mor
 Naaman, Luis Gravano’s paper of “Learning Similarity Metrics for Event Identification in
 Social Media”.
